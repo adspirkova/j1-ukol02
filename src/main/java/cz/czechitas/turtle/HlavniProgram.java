@@ -74,7 +74,7 @@ public class HlavniProgram {
         zofka.turnRight(180 + 90);
         zofka.penDown();
         nakresliKolecko(zofka, velikost *3);
-        zofka.turnLeft(100);
+        zofka.turnLeft(85);
     }
 
     private void nakresliCastMnohohuelniku(Turtle zofka, double delkaStrany, int pocetStran, int cast) {

@@ -4,27 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ccb42a0-6f0f-415e-9081-60a0a822eeb8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obrazky/ukol03-lokomotiva.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obrazky/ukol03-snehulak.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obrazky/ukol03-zmrzlina.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cz/czechitas/turtle/HlavniProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cz/czechitas/turtle/engine/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cz/czechitas/turtle/engine/Turtle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/cz/czechitas/turtle/engine/turtle.png" afterDir="false" />
+    <list default="true" id="8ccb42a0-6f0f-415e-9081-60a0a822eeb8" name="Changes" comment="Ukol 2 Cast 1, 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/czechitas/turtle/HlavniProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/czechitas/turtle/HlavniProgram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,11 +90,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678273197105</updated>
-      <workItem from="1678273198805" duration="9749000" />
+      <workItem from="1678273198805" duration="9888000" />
     </task>
+    <task id="LOCAL-00001" summary="Ukol 2 Cast 1, 2">
+      <created>1678283052388</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678283052389</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ukol 2 Cast 1, 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ukol 2 Cast 1, 2" />
   </component>
 </project>
